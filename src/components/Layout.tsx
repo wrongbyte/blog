@@ -10,7 +10,7 @@ export default function Layout({ children }: { children: ReactNode }) {
           {children}
         </main>
         <footer className=" flex justify-center">
-          <span className="mb-3">• wrongbyte © • 2022 •</span>
+          <span className="mb-3">• wrongbyte © • 2024 •</span>
         </footer>
       </div>
     </>
